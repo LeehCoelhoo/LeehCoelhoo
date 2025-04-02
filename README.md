@@ -24,6 +24,5 @@ Sou um entusiasta da tecnologia com cursando Ciência da Computação, atualment
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeehCoelhoo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Minhas certificações
-![Professional Scrum Master](https://static.scrum.org/web/badges/badge-psmi.svg)
+
 
