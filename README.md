@@ -1,28 +1,75 @@
+# 👋 Olá, eu sou Letícia Guimarães Coelho  
 
-# Letícia Guimarães Coelho
-Sou um entusiasta da tecnologia com cursando Ciência da Computação, atualmente no 7º semestre. Com uma certificação PSM I - Profissional Scrum Master, tenho sólidos conhecimentos em gerenciamento de projetos e microsseviços, bem como experiência em gestão de TI. Além disso, possuo habilidades avançadas em análise de dados, utilização do Power BI e programação.
+🎯 **Analista de Dados | Power BI • SQL • Automação • BI Moderno & Governança**  
+📊 Transformando dados em insights estratégicos e soluções analíticas escaláveis.
 
-### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/leehcoelhoo/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:leehcoelhoo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leehcoelho/)
+---
 
+## 🚀 Sobre mim  
 
-### Linguagens de Programação
+Sou **Analista de Dados** e estudante de **Ciência da Computação**, com forte atuação em **Business Intelligence, automação de processos, governança de dados e análise aplicada**.  
+
+Tenho experiência prática no desenvolvimento de **dashboards interativos, pipelines de ETL, automação de fluxos de dados e relatórios executivos**, atuando desde a modelagem até a entrega de insights para apoio à tomada de decisão.  
+
+Atualmente estou expandindo meus estudos em **Inteligência Artificial aplicada a dados e no ecossistema Microsoft Fabric**, buscando evoluir arquiteturas analíticas modernas, escaláveis e orientadas à nuvem.
+
+🎯 Meu objetivo é criar soluções orientadas a dados que gerem **impacto real, eficiência operacional e valor estratégico**.
+
+---
+
+## 🧠 Principais Competências  
+
+- 📊 Business Intelligence (Power BI, DAX, Power Query)  
+- 🗄️ Bancos de Dados (MySQL, PostgreSQL, SQL)  
+- 🔄 ETL & Integração de Dados  
+- ⚙️ Automação de Processos (Power Automate)  
+- 📈 Modelagem de Dados & KPIs  
+- 🛡️ Governança e Qualidade de Dados  
+- 🤖 IA aplicada à Análise de Dados (em evolução)  
+- 🧩 Metodologias Ágeis (Scrum / PSM I)  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+### 📊 Dados & BI  
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+### 🗄️ Bancos de Dados  
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### ⚙️ Dev & Versionamento  
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+### 💻 Linguagens  
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![Dart]()
-![Flutter]()
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeehCoelhoo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeehCoelhoo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 🌐 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leehcoelho/)  
+[![DIO](https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/leehcoelhoo/)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook)](mailto:leehcoelhoo@gmail.com)  
+
+---
+ 
+## 📊 GitHub Analytics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeehCoelhoo&theme=dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeehCoelhoo&theme=dark&layout=compact)
 
 
+---
 
+🚀 *Sempre aberta a colaborações, projetos em dados, BI, automação e inovação digital.*
