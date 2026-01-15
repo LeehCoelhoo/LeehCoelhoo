@@ -62,13 +62,17 @@ Atualmente estou expandindo meus estudos em **Inteligência Artificial aplicada 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook)](mailto:leehcoelhoo@gmail.com)  
 
 ---
- 
-## 📊 GitHub Analytics  
+   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeehCoelhoo&theme=dark&show_icons=true)
+## 🧩 Portfólio & Serviços
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeehCoelhoo&theme=dark&layout=compact)
-
+**O que eu entrego:**
+- 📊 Dashboards executivos em **Power BI** (KPIs, DAX, Power Query, Modelagem)
+- 🗄️ Consultas e modelagem em **SQL** (MySQL/PostgreSQL)
+- 🔄 **ETL** e integração de dados (limpeza, padronização, consistência)
+- ⚙️ **Automação** de rotinas e alertas com Power Automate
+- 🛡️ **Governança e qualidade de dados** (documentação, padrões e controles)
+- 🧠 Estudos em **IA aplicada a dados** e Modern BI (Microsoft Fabric)
 
 ---
 
